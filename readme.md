@@ -2,7 +2,7 @@
 
 Github repository for code used to produce main figures and tables for the paper: "Population-Representative Inference for Primary and Secondary Outcomes in Extended Case-Cohort Designs: an Application of the iPSYCH Study"
 
-In this study, we identify the entire source population for the iPSYCH sampl (the full cohort), nested subcohorts and case-cohort samples. We define average- and birth-cohort-specific inverse probability of sampling weights, and estimate age-specific rates, risks, and incidence rate ratios using crude poisson, GAM, and Cox regression modeling. We here use affective disorder as an example of a primary outcome, and epilepsy as an example of a secondary outcome. Estimation is done in the different samples (full cohort, subcohort, subcohort + affective disorder/epilepsy, and subcohort + all case groups = entire iPSYCH sample) and for different length of follow-up (end of 2015 and 2021, respectively).
+In this study, we identify the entire iPSYCH source population (the full cohort - singletons, born in DK 1981-2008, known mother, residing in DK at age 1), nested subcohorts and case-cohort samples. We define average- and birth-cohort-specific inverse probability of sampling weights, and estimate age-specific rates, risks, and incidence rate ratios using crude poisson, GAM, and Cox regression modeling. We use affective disorder as an example of a primary outcome, and epilepsy as an example of a secondary outcome. Estimation is done in the different samples (full cohort, subcohort, subcohort + affective disorder/epilepsy, and subcohort + all case groups = entire iPSYCH sample) and for different lengths of follow-up (end of 2015 and 2021, respectively).
 
 ### Input data
 

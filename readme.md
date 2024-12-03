@@ -36,7 +36,7 @@ secondary outcomes until 2015 and 2021 based on datasets including information
 on the iPSYCH design and diagnoses from the National Patient Register. `Output file: studybase.csv`
 
 #### `02_table1_descriptives.R`
-This file calculates crude and upweighted numbers for different case-cohort samples in table 1. Output file: `upweight_tab1.xlsx`
+This file calculates crude and upweighted numbers for different case-cohort samples (Table 1). Output file: `upweight_tab1.xlsx`
 
 #### `03_figure2_rates.R`
 Estimating GAM poisson rates and plot across age for affective disorder and epilepsy (Figure 2). Output file: `rates_aff_epi.svg` 
